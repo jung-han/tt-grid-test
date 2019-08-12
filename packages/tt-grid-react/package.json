@@ -54,5 +54,6 @@
   },
   "dependencies": {
     "tt-tui-grid": "^4.0.0"
-  }
+  },
+  "gitHead": "576a1bb0668a44969e9f2d367d17409d1b71ed49"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "tt-grid",
+  "name": "test-tui-grid-test-test",
   "version": "5.0.0",
   "description": "TOAST UI Grid : Powerful data grid control supported by TOAST UI",
   "main": "dist/tui-grid.js",
@@ -67,5 +67,6 @@
     "preact": "^8.4.2",
     "tui-date-picker": "^3.3.3",
     "tui-pagination": "^3.3.2"
-  }
+  },
+  "gitHead": "576a1bb0668a44969e9f2d367d17409d1b71ed49"
 }
