@@ -1,6 +1,6 @@
 {
   "name": "tt-grid-react",
-  "version": "2.0.0",
+  "version": "5.0.0",
   "description": "TOAST UI Grid for React",
   "main": "dist/toastui-react-grid.js",
   "files": [

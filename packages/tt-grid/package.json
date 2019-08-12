@@ -1,6 +1,6 @@
 {
   "name": "tt-grid",
-  "version": "4.2.0",
+  "version": "5.0.0",
   "description": "TOAST UI Grid : Powerful data grid control supported by TOAST UI",
   "main": "dist/tui-grid.js",
   "scripts": {
@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "preact": "^8.4.2",
-    "tui-pagination": "^3.3.2",
-    "tui-date-picker": "^3.3.3"
+    "tui-date-picker": "^3.3.3",
+    "tui-pagination": "^3.3.2"
   }
 }
